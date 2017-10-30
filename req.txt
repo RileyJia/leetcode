@@ -1,0 +1,6 @@
+[leetcode]
+
+username = username
+password = password
+language = python,javascript
+repo = https://github.com/bonfy/leetcode
